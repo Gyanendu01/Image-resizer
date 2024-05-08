@@ -20,11 +20,12 @@ git clone https://github.com/your-username/image-resizer.git
 ```bash
 cd image-resizer
 ```
-Place your image file in the same directory or provide the correct path to the image file in the script.
-Open the script image_resizer.py and modify the following variables:
-1.input_image_path: Path to the input image file.
-2.output_image_path: Path where the resized image will be saved.
-3.new_width and new_height: New dimensions for the resized image.
+## Variables to Modify:
+
+- `input_image_path`: Path to the input image file.
+- `output_image_path`: Path where the resized image will be saved.
+- `new_width`: New width for the resized image.
+- `new_height`: New height for the resized image.
 
 ## Run the script:
 ```bash
