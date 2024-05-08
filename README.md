@@ -13,7 +13,7 @@ pip install opencv-python
 ## Usage
   Clone the repository:
 ```bash
-git clone https://github.com/gyanendu01/image-resizer.git
+git clone https://github.com/Gyanendu01/Image-resizer.git
 ```
   Navigate to the repository directory:
   
@@ -29,7 +29,7 @@ cd image-resizer
 
 ## Run the script:
 ```bash
-python image_resizer.py
+python main.py
 ```
 The resized image will be saved in the specified output path. If you chose to display the resized image, it will be shown in a new window.
 
