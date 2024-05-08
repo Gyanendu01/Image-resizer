@@ -13,7 +13,7 @@ pip install opencv-python
 ## Usage
   Clone the repository:
 ```bash
-git clone https://github.com/your-username/image-resizer.git
+git clone https://github.com/gyanendu01/image-resizer.git
 ```
   Navigate to the repository directory:
   
